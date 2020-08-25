@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "yif-navigator":"../../components/navigator/navigator"
+  }
+}

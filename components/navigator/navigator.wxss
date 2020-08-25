@@ -1,0 +1,35 @@
+/* pages/navigator/navigator.wxss */
+/* @import "../../lib/weui.wxss"; */
+page {
+  line-height: 1.6;
+  font-family: -apple-system-font, "Helvetica Neue", sans-serif;
+}
+.page-section {
+  margin-bottom: 20rpx;
+}
+.page-section-title {
+  color: aquamarine;
+}
+.flex-wrp {
+  display: flex;
+}
+.flex-item {
+  flex: 1 1 auto;
+}
+.bc_green {
+  background: green;
+  width: 100px;
+  height: 100px;
+}
+
+.bc_red {
+  background: red;
+  width: 100px;
+  height: 100px;
+}
+
+.bc_blue {
+  background: blue;
+  width: 100px;
+  height: 100px;
+}
